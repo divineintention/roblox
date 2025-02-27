@@ -1,3 +1,4 @@
+# This just accesses Roblox's files & obtains the Server IP (useless, just press Shift + F3) This was just made for fun.
 import glob
 import os
 from time import sleep
